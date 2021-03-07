@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811698344121",
+    "project_id": "rescue-volunteer-e9a9f",
+    "storage_bucket": "rescue-volunteer-e9a9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811698344121:android:81183303ce9743ab8d0b68",
+        "android_client_info": {
+          "package_name": "com.example.rescuevolunteer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811698344121-9m79evpc8b2t630ph53qi5kg5mru802a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcpa5AklujOSucr6TEmwWEBWHVAvF1kCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811698344121-9m79evpc8b2t630ph53qi5kg5mru802a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
